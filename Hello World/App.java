@@ -15,5 +15,6 @@ public class App {
 		Chien chien = new Chien("Medor", "Bullterrier"); 
 		
         chien.crier ();
+		chat.crier ();
     }
 }
