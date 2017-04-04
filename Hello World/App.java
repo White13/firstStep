@@ -14,6 +14,6 @@ public class App {
 		Chat chat = new Chat("Félix", "Siamois");
 		Chien chien = new Chien("Medor", "Bullterrier"); 
 		
-        chat.crier ();
+        chien.crier ();
     }
 }
